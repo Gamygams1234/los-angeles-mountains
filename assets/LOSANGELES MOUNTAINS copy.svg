@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 594 230" width="594" height="230">
+	<title>Hero</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 13px;line-height: 14px;fill: #4d4d4d;font-family: "Bebas" } 
+		.t1 { font-size: 14px;line-height: 14px;fill: #414f6b;font-family: "Bebas" } 
+	</style>
+	<g id="Hero">
+		<g id="Image">
+			<text id="LOSANGELES MOUNTAINS copy" style="transform: matrix(8.612,0,0,8.689,-4.952,103.576)" >
+				<tspan x="0" y="0" class="t0" dx="0 0 0 0 0 0 0 0 0 0 0" >LOSANGELES
+</tspan>
+				<tspan x="0" y="14.3" class="t1" dx="0 0 0 0 0 0 0 0 0 0" >MOUNTAINS
+</tspan>
+			</text>
+		</g>
+	</g>
+</svg>
